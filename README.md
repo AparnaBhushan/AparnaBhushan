@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AparnaBhushan
-- 👀 I’m interested in app development
+- 👀 I’m interested in web development and also AI/ML
 
 
 
